@@ -6,3 +6,12 @@
 	- erased the system gitconfig that specified credential.helper = oskeychain
 
 testing now ....
+
+Failed as expected with could not read username error
+
+4. Downloaded the MSFT Git-Credential-Manager-core package.
+   - the .pkg file needs to be opened explicitly to over-ride the macOS security block
+
+
+
+
